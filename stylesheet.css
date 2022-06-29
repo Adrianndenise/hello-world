@@ -1,6 +1,9 @@
-h1 {color: purple; font-size: 24px;
+container {
+
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 25px;
+color: red;
+margin: auto;
+
 }
 
-h2 {color: #fff; font-family: 'Segoe UI' Verdana;
-
-}
